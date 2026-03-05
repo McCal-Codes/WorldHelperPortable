@@ -1,0 +1,8 @@
+{
+    "WorldPath":  "C:\\Users\\wolft\\AppData\\Roaming\\Hytale\\UserData\\Saves\\Prerelese Lets Play",
+    "LogsPath":  "C:\\Users\\wolft\\AppData\\Roaming\\Hytale\\UserData\\Saves\\Prerelese Lets Play\\logs",
+    "Tail":  80,
+    "ImportantOnly":  false,
+    "FilterPattern":  "",
+    "LaunchCommand":  ""
+}

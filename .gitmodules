@@ -1,0 +1,6 @@
+[submodule "docs/hytale-site"]
+	path = docs/hytale-site
+	url = https://github.com/HytaleModding/site
+[submodule "docs/hytale-docs-wiki"]
+	path = docs/hytale-docs-wiki
+	url = https://github.com/timiliris/Hytale-Docs
